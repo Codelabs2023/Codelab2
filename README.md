@@ -6,7 +6,7 @@ A lo largo de la unidad 6, se presentan varias aplicaciones que deberán ser des
 
 - **Aplicación de Inventario** (Room): [Inventory App](Inventory%20App).
 - **Aplicación de Versiones de Android** (DataStore): [Dessert Release](Dessert%20Release).
-- **Aplicación de Búsqueda de Vuelos** (Proyecto final): [Flight Search](Flight%Search).
+- **Aplicación de Búsqueda de Vuelos** (Proyecto final): [Flight Search](Flight%20Search).
 
 Además, a través del siguiente enlace se puede visualizar el informe realizado tras la finalización de todos los *codelabs* propuestos:
 
